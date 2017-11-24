@@ -1,0 +1,22 @@
+{
+  "name": "UrbanTrend",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "3.3.6",
+    "jquery": "2.2.3",
+    "jquery-validation": "1.x",
+    "jquery-validation-unobtrusive": "3.x",
+    "angular": "1.x",
+    "angular-resource": "1.x",
+    "angular-bootstrap": "1.x",
+    "angular-animate": "1.x",
+    "angular-touch": "1.x",
+    "angular-ui-router": "0.x",
+    "angular-material-data-table": "0.10.9",
+    "bootstrap-material-design": "0.5.9",
+    "json-editor": "0.7.25"
+  },
+  "resolutions": {
+    "jquery": ">= 1.7.2"
+  }
+}
